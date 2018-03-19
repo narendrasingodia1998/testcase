@@ -10,5 +10,6 @@ a = []
 for i in range(1,x-1):
       a.append(input())
 print(a)
+print("LAVDA LELO MERA")
       
 
